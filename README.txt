@@ -1,6 +1,8 @@
 Fully-functioning Simon game based on the 1978 original.
 ======
 
+Made in HTML & Javascript
+
 Defeat level 20 by repeating the tunes to win.
 Play on 'strict' mode for an added challenge - no mistakes allowed!
 Game speed increases at levels 5 and 10.
